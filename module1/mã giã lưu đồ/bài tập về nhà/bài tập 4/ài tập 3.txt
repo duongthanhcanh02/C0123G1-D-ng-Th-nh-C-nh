@@ -1,0 +1,23 @@
+Begin
+   Input điểm
+   điểm = a
+   if >75
+   Display 'loại a'
+   else
+   if <75
+   Display 'loại b'
+   else
+   if <60 
+   Display 'loại c'
+   else
+   if <45
+   Display 'loại d'
+   else
+   if < 35
+   Display 'loại e'
+   else
+ end if
+ end if
+ end if	
+ end if
+End
