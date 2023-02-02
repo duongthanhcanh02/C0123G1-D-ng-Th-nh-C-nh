@@ -1,0 +1,5 @@
+Begin
+   Input A,B,C	
+       Averagy =( a+b+c)/3
+   Display 'averge'
+End
