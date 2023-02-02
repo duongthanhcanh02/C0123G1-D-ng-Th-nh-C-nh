@@ -1,13 +1,14 @@
 Begin
    Input a,b,c
-   if a>b
+   if a<b
     Display 'a là giá trị lớn nhất'
-   Ele 
-   if b>c
+   Else 
+   if b<c
     display ' b là giá trị lơn nhất'
-   Ele
-    if c>a 
+   Else
+    if c>a
     Display ' c là giá trị lớn nhất'
+   else
    end if
    end if
 End
